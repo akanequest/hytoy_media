@@ -17,3 +17,9 @@ Also, please keep the following points in mind when using them:
 * 素材を使用する際には、可能な限り元の状態を保持し、加工や改変を行わないようにしてください。
 * 素材を商業目的で使用する場合や再配布する場合は、事前にお問い合わせください。
 * 掲載先に素材の使用に関する具体的なガイドラインや条件がある場合は、それに従ってください。
+
+--- 
+
+Contact us
+* [Maru](https://twitter.com/Maruwan0japan) (Founder)
+* [Akane](https://twitter.com/akanexinfo) (Designer)
